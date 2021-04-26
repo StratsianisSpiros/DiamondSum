@@ -1,4 +1,4 @@
 # DiamondSum
 Calculates sum of a diamond shape in a two dimensional ODD integer array
 
-1 style="color:blue">2</span> 3
+1 <span style="color: green"> Some green text </span> 3
